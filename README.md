@@ -25,4 +25,9 @@ $ asciidoc-dev-server.sh
 
 The website will be available on [localhost:8080](http://localhost:8080). It will refresh automatically with every file change in your docs repo.
 
+### Bug and workaround: if you get errors when running this for the first time, just do:
+
+```
+$ mkdir _package
+```
 
